@@ -61,7 +61,6 @@ Add to qb-management
 ```
 Add this to 
 # qb-management/client/cl_config.lua
-```
 ['army'] = {
         { coords = vec3(-2346.23, 3269.55, 32.81), length = 1, width = 1, heading = 330, minZ = 29.61, maxZ = 33.61 },
     },
