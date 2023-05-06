@@ -1,5 +1,5 @@
 # qb-armyjob
-Army Job for QB-Core Framework 🪖
+Army Job for QB-Core Framework
 
 # License
 
