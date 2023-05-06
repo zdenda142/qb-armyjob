@@ -56,8 +56,6 @@ ensure qb-core
 ensure qb-armyjob
 ensure qb-management  
 
-qb-management 
-Add this to 
 # qb-management/client/cl_config.lua
 
 ```
