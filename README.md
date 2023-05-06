@@ -29,31 +29,15 @@ Army Job for QB-Core Framework 🪖
 - [qb-input](https://github.com/qbcore-framework/qb-input) - For accessing evidence stashes
 
 
-## Features
-- Classical requirements like on duty/off duty, clothing, vehicle, stash etc.
-- Citizen ID based armory (Whitelisted)
-- Fingerprint test
-- Evidence locker (stash)
-- Whitelisted vehicles
-- Speed radars across the map
-- Stormram
-- Impounding player vehicle (permanent / for an amount of money)
-- Integrated jail system
-- Bullet casings
-- GSR
-- Blood drop
-- Evidence bag & Money bag
-- Police radar
-- Handcuff as an item (Can used via command too. Check Commands section.)
-- Emergency services can see each other on map
-
 ## Installation
 ### Manual
 - Download the script and put it in the `[qb]` directory.
 - Add the following code to your server.cfg/resouces.cfg
 
 ensure qb-core
+
 ensure qb-armyjob
+
 ensure qb-management  
 
 # qb-management/client/cl_config.lua
@@ -153,6 +137,24 @@ Add this to
 - /paytow [id] - Makes payment to the tow driver.
 - /paylawyer [id] - Makes payment to the lawyer.
 - /radar - Toggles the police radar.
+
+## Features
+- Classical requirements like on duty/off duty, clothing, vehicle, stash etc.
+- Citizen ID based armory (Whitelisted)
+- Fingerprint test
+- Evidence locker (stash)
+- Whitelisted vehicles
+- Speed radars across the map
+- Stormram
+- Impounding player vehicle (permanent / for an amount of money)
+- Integrated jail system
+- Bullet casings
+- GSR
+- Blood drop
+- Evidence bag & Money bag
+- Police radar
+- Handcuff as an item (Can used via command too. Check Commands section.)
+- Emergency services can see each other on map
 - /911 [message] - Sends a report to emergency services.
 - /911r [id] - Used to respond the emergency alerts.
 - /911a [message] - Sends an anonymous report to emergency services (gives no location).
