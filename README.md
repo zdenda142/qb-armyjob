@@ -51,7 +51,7 @@ Army Job for QB-Core Framework 🪖
 ### Manual
 - Download the script and put it in the `[qb]` directory.
 - Add the following code to your server.cfg/resouces.cfg
-```
+
 ensure qb-core
 ensure qb-armyjob
 ensure qb-management  
@@ -59,6 +59,7 @@ ensure qb-management
 qb-management 
 Add this to 
 # qb-management/client/cl_config.lua
+
 ```
 ['army'] = {
         { coords = vec3(-2346.23, 3269.55, 32.81), length = 1, width = 1, heading = 330, minZ = 29.61, maxZ = 33.61 },
