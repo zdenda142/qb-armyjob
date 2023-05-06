@@ -163,4 +163,3 @@ Add this to
 - /ebutton - Used to respond an emergency alert.
 - /takedrivinglicense - Takes the driving license from nearby player.
 - /takedna [id] - Takes a DNA sample from the player.
-```
