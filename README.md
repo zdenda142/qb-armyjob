@@ -31,13 +31,15 @@ Army Job for QB-Core Framework
 ### Manual
 - Download the script and put it in the `[qb]` directory.
 - Add the following code to your server.cfg/resouces.cfg
-
+```
 ensure qb-core
-
+```
+```
 ensure qb-armyjob
-
+```
+```
 ensure qb-management  
-
+```
 # qb-management/client/cl_config.lua
 
 ```
