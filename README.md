@@ -33,11 +33,7 @@ Army Job for QB-Core Framework
 - Add the following code to your server.cfg/resouces.cfg
 ```
 ensure qb-core
-```
-```
 ensure qb-armyjob
-```
-```
 ensure qb-management  
 ```
 # qb-management/client/cl_config.lua
